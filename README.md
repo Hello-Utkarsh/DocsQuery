@@ -2,6 +2,10 @@
 
 DocsQuery is a PDF question-answering application built with a React frontend and a FastAPI backend. It allows users to upload PDF documents, extract text, create embeddings, and ask questions about the contents using AI models.
 
+### Demo
+
+![](frontend/public/DocsQuery%20Demo.gif)
+
 ### Backend Setup (FastAPI + uv)
 
 1. Navigate to the backend folder:
